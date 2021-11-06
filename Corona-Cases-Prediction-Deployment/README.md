@@ -13,11 +13,11 @@ Deployed at: __
 
 _**----- HOME PAGE-1 -----**_<br />
 
-![Heroku-Error](readme_resources/Home_Page_1.png) ![Heroku-Error](readme_resources/Home_Page_2.png)
+![Heroku-Error](readme_resources/Home_Page_1.png) 
 
 _**----- HOME PAGE-2 -----**_<br />
 
-
+![Heroku-Error](readme_resources/Home_Page_2.png)
 
 _**----- FOR COUNTRIES -----**_<br />
 • Home Page For Countries
