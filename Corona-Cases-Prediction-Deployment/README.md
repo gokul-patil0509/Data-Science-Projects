@@ -15,16 +15,19 @@ _**1] HOME PAGE-1 :**_<br />
 • Novel CoronaVirus Predictor Web Application.
 
 • Top View.
+
 ![Heroku-Error](readme_resources/Corona_Predictor_1.png) 
 
 _**2] HOME PAGE-2 :**_<br />
 
 • Middle View.
+
 ![Heroku-Error](readme_resources/Corona_Predictor_2.png)
 
 _**3] HOME PAGE-3 :**_<br />
 
 • Bottom View.
+
 ![Heroku-Error](readme_resources/Corona_Predictor_3.png)
 
 _**4] FOR COUNTRIES :**_<br />
