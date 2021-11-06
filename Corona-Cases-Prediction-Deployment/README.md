@@ -11,26 +11,22 @@ Deployed at: __
 
 • A glimpse of the web app:
 
-_**1] HOME PAGE-1 :**_<br />
+_**1] HOME PAGE :**_<br />
 • Novel CoronaVirus Predictor Web Application.
 
 1. Top View.
 
 ![Heroku-Error](readme_resources/Corona_Predictor_1.png) 
 
-_**2] HOME PAGE-2 :**_<br />
-
 2. Middle View.
 
 ![Heroku-Error](readme_resources/Corona_Predictor_2.png)
-
-_**3] HOME PAGE-3 :**_<br />
 
 3. Bottom View.
 
 ![Heroku-Error](readme_resources/Corona_Predictor_3.png)
 
-_**4] FOR COUNTRIES :**_<br />
+_**2] FOR COUNTRIES :**_<br />
 • Predict the Covid-19 cases in upcoming day for countries.
 
 1. Confiremed Cases.
@@ -44,7 +40,7 @@ _**Results Page For Countries :**_
 
 ![Heroku-Error](readme_resources/Corona_Predictor_5.png)
 
-_**5] FOR STATE :**_<br />
+_**3] FOR STATE :**_<br />
 • Predict the Covid-19 cases in upcoming day for State.
 
 1. Active Cases.
@@ -57,7 +53,7 @@ _**Results Page For State :**_
 
 ![Heroku-Error](readme_resources/Corona_Predictor_7.png)
 
-_**6] FOR DISTRICT :**_<br />
+_**4] FOR DISTRICT :**_<br />
 • Predict the Covid-19 cases in upcoming day for District.
 
 1. Active Cases.
@@ -70,7 +66,7 @@ _**Results Page For District :**_
 
 ![Heroku-Error](readme_resources/Corona_Predictor_9.png)
 
-_**7] FREQUENTLY ASKED QUESTION'S :**_<br />
+_**5] FREQUENTLY ASKED QUESTION'S :**_<br />
 1. Top View.
 
 ![Heroku-Error](readme_resources/Corona_Predictor_10.png)
@@ -79,7 +75,7 @@ _**7] FREQUENTLY ASKED QUESTION'S :**_<br />
 
 ![Heroku-Error](readme_resources/Corona_Predictor_11.png)
 
-_**8] FOR TEST CORONA VIRUS :**_<br />
+_**6] FOR TEST CORONA VIRUS :**_<br />
 • Predict whether a patient is infected with the corona virus based on the symptoms.
 
 _**1. SAFE :**_
