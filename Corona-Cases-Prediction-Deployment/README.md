@@ -11,42 +11,63 @@ Deployed at: __
 
 • A glimpse of the web app:
 
-_**----- HOME PAGE-1 -----**_<br />
+_**1] HOME PAGE-1 :**_<br />
+• Novel CoronaVirus Predictor Web Application.
 
-![Heroku-Error](readme_resources/Home_Page_1.png) 
+• Top View.
+![Heroku-Error](readme_resources/Corona_Predictor_1.png) 
 
-_**----- HOME PAGE-2 -----**_<br />
+_**2] HOME PAGE-2 :**_<br />
 
-![Heroku-Error](readme_resources/Home_Page_2.png)
+• Middle View.
+![Heroku-Error](readme_resources/Corona_Predictor_2.png)
 
-_**----- FOR COUNTRIES -----**_<br />
-• Home Page For Countries
+_**3] HOME PAGE-3 :**_<br />
 
-![Heroku-Error](readme_resources/Countries_home.png)
+• Bottom View.
+![Heroku-Error](readme_resources/Corona_Predictor_3.png)
 
-• Results Page For Countries
+_**4] FOR COUNTRIES :**_<br />
+• Predict the Covid-19 cases in upcoming day for countries.
 
-![Heroku-Error](readme_resources/Countries_results.png)
+1. Confiremed Cases.
+2. Active Cases.
+3. Recovered Cases.
+4. Death Cases.
 
-_**----- FOR STATE -----**_<br />
-• Home Page For State
+![Heroku-Error](readme_resources/Corona_Predictor_4.png)
 
-![Heroku-Error](readme_resources/State_home.png)
+_**Results Page For Countries :**_
 
-• Results Page For State
+![Heroku-Error](readme_resources/Corona_Predictor_5.png)
 
-![Heroku-Error](readme_resources/State_results.png)
+_**5] FOR STATE :**_<br />
+• Predict the Covid-19 cases in upcoming day for countries.
 
-_**----- FOR DISTRICT -----**_<br />
-• Home Page For District
+1. Active Cases.
+2. Recovered Cases.
+3. Death Cases.
 
-![Heroku-Error](readme_resources/District_home.png)
+![Heroku-Error](readme_resources/Corona_Predictor_6.png)
 
-• Results Page For District
+_**Results Page For State :**_
 
-![Heroku-Error](readme_resources/District_results.png)
+![Heroku-Error](readme_resources/Corona_Predictor_7.png)
 
-_**----- FOR TEST CORONA VIRUS -----**_<br />
+_**6] FOR DISTRICT :**_<br />
+• Predict the Covid-19 cases in upcoming day for countries.
+
+1. Active Cases.
+2. Recovered Cases.
+3. Death Cases.
+
+![Heroku-Error](readme_resources/Corona_Predictor_8.png)
+
+_**Results Page For District :**_
+
+![Heroku-Error](readme_resources/Corona_Predictor_9.png)
+
+_**7] FOR TEST CORONA VIRUS :**_<br />
 
 ![GIF](readme_resources/Test_cv.gif)
 
